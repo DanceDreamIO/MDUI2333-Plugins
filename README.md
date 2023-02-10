@@ -9,3 +9,4 @@
 [ExSearch](https://github.com/AlanDecode/Typecho-Plugin-ExSearch) - 即时搜索（已经适配，启动插件并关闭`jquery`后即可使用）
 
 [Mailer](https://github.com/AlanDecode/Typecho-Plugin-Mailer) - 评论邮件提醒（已经适配，无需手动添加`<input>`）
+
